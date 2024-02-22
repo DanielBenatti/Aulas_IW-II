@@ -1,0 +1,12 @@
+body{
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    background-color: black;
+}
+button{
+    width: 80px;
+}
+.restaurar{
+    width: 164px;
+}
